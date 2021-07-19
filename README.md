@@ -60,6 +60,7 @@ Run the following R code in R to get interactive plots. Package 'shiny', 'data.t
 library(shiny)
 runGitHub("InteractivePlots", "chenlab-uva", ref = "main", subdir = "viewIBD")
 ```
+
 Example output
 
 <img src="https://github.com/chenlab-uva/InteractivePlots/blob/main/viewIBD/viewIBD_1.png" width="854" height="480">
