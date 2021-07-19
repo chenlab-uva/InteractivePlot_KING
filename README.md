@@ -31,7 +31,6 @@ Run KING to get the required three files. They are *.roh, *.rohseg.gz and *allse
 ```{bash}
 king -b hapmap.bed --roh --prefix hapmap
 ```
-
 Run the following R code in R to get interactive plots. Package 'shiny' and 'ggplot2' are required. Related R files are saved at viewROH folder. <br/> 
 
 ```{bash}
